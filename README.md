@@ -4,7 +4,7 @@ This repository includes a single script that changes your wallpaper based on th
 
 This script is setup as a scheduled program using the windows task scheduler.
 
-**Requirements**: Python 3.7 or above and conda.
+**Requirements**: Python 3.7 or above and conda. It has only been tested on Windows 11.
 
 ## Set Your Parameters
 
